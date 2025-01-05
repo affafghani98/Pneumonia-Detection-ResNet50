@@ -46,5 +46,6 @@ To run this project, please follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HOORIAGABA/Pneumonia-Detection.git
-   cd Pneumonia-Detection
+   git clone https://github.com/affafghani98/Pneumonia-Detection-ResNet50.git
+   cd <path-to-folder->
+   
